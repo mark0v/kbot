@@ -1,4 +1,4 @@
-# This simple telegramm bot writing on Go language
+# This simple telegram bot written in Go language
 
 t.me/amark0vv_kbot
 Git repositoty https://github.com/mark0v/kbot
